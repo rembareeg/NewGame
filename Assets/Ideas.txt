@@ -1,0 +1,8 @@
+##
+	Rupa u kojoj umres
+	planet gravity
+	Vir / pijavica / blackhole
+	kad se zatvori portal da se lopta moze odbiti
+	main menu loptice lete i kada se prebaci ekran loptice s te strane se opet spavnaju
+
+##
